@@ -1,0 +1,12 @@
+{
+    "name": "tangwei/app",
+    "description": "app-test",
+    "type": "project",
+    "authors": [
+        {
+            "name": "wei.tang01",
+            "email": "wei.tang01@msxf.com"
+        }
+    ],
+    "require": {}
+}
